@@ -1,2 +1,2 @@
 # watermark-documents
-You can watermark any documents with "ONLY FOR VERIFICATON" and blur any sensitive information on the document
+Documents can be watermarked with "ONLY FOR VERIFICATION" and sensitive information can be blurred.
