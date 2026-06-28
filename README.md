@@ -13,10 +13,17 @@ Contact me for License or any other issue : rama24chandra@gmail.com
 
 KEYPAD CONTROLS:
 "-" : zoom out,
+
 "+" : zoom into,
+
 "w" : move up,
+
 "x" : move down,
+
 "a" : move left,
+
 "d" : move right,
+
 "s" : save current page and move next page,
+
 "q" : quit the document without saving.
