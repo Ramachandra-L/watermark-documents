@@ -12,6 +12,7 @@ After Watermark:
 Contact me for License or any other issue : rama24chandra@gmail.com
 
 KEYPAD CONTROLS:
+
 "-" : zoom out,
 
 "+" : zoom into,
