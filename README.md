@@ -27,4 +27,6 @@ KEYPAD CONTROLS:
 
 "s" : save current page and move next page,
 
-"q" : quit the document without saving.
+"q" : quit the document without saving,
+
+"mouse left click" : select area to blur.
