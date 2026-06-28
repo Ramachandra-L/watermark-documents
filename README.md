@@ -1,7 +1,7 @@
 # watermark-documents
 Documents can be watermarked with "ONLY FOR VERIFICATION" and sensitive information can be blurred.
 
-It’s a completely offline application, and unlike other applications, it doesn’t have monthly subscriptions.
+It’s a completely offline application, and unlike other applications, it doesn’t need monthly subscriptions.
 
 Before Watermark:
 <img width="787" height="536" alt="image" src="https://github.com/user-attachments/assets/22aed855-af8a-4495-9ca8-69db18c8e8ad" />
