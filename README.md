@@ -10,3 +10,13 @@ After Watermark:
 <img width="1054" height="700" alt="image" src="https://github.com/user-attachments/assets/0544fe26-e224-4028-ae03-b2d422e0a00e" />
 
 Contact me for License or any other issue : rama24chandra@gmail.com
+
+KEYPAD CONTROLS:
+"-" : zoom out,
+"+" : zoom into,
+"w" : move up,
+"x" : move down,
+"a" : move left,
+"d" : move right,
+"s" : save current page and move next page,
+"q" : quit the document without saving.
